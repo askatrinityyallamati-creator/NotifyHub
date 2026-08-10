@@ -1,0 +1,19 @@
+.admin-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logout-button {
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  background: #dc2626;
+  color: white;
+}
+
+.logout-button:hover {
+  opacity: 0.9;
+}
